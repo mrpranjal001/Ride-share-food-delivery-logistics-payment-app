@@ -1,4 +1,4 @@
-# Ride Share & Food Delivary 
+# Ride Share & Food Delivary. 
 
 
 This app has a lot of uber cool features and services. Here's everything you can do with it. 
