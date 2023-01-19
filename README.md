@@ -1,7 +1,7 @@
 # Ride Share & Food Delivary. 
 
 
-This app has a lot of uber cool features and services. Here's everything you can do with it. 
+# This app has a lot of uber cool features and services. Here's everything you can do with it. 
 
 You can choose one from three: GoRide, GoCar, or GoBluebird. When you’re lost? GoTransit is here to save your day and provide you with the choices of convenient routes.
 
